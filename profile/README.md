@@ -56,5 +56,5 @@ Seja para tirar dúvidas, entender como podemos ajudar ou conversar sobre sua ne
 ---
 
 <div align="center">
-  <sub>Feito com cuidado, clareza e muito café pela equipe Sétima Cauda.</sub>
+  <sub>Sétima Cauda — soluções que se adaptam ao seu negócio.</sub>
 </div>
