@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://sétimacauda.com/og-image.png" alt="Sétima Cauda Logo" width="120" />
+  <img src="https://xn--stimacauda-b7a.com/og-image.png" alt="Sétima Cauda" />
   
   # Sétima Cauda
   **Soluções digitais para empresas que querem evoluir.**
   
-  [![Website](https://img.shields.io/badge/Website-Visitar-143166?style=for-the-badge)](https://setimacauda.com)
+  [![Website](https://img.shields.io/badge/Website-Visitar-143166?style=for-the-badge)](https://sétimacauda.com)
   [![Contato](https://img.shields.io/badge/Contato-comercial@setimacauda.com.br-111a29?style=for-the-badge)](mailto:contato@setimacauda.com)
   
   <p align="center">
@@ -50,7 +50,7 @@ Processos antigos geram retrabalho, perda de tempo e dificultam o crescimento. N
 
 Seja para tirar dúvidas, entender como podemos ajudar ou conversar sobre sua necessidade, estamos por aqui.
 
-- 🌐 **Site:** [setimacauda.com](https://setimacauda.com)
+- 🌐 **Site:** [sétimacauda.com](https://setimacauda.com)
 - ✉️ **Contato:** [contato@setimacauda.com](mailto:contato@setimacauda.com)
 
 ---
