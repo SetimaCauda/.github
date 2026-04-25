@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sétimacauda.com/logo_white.png" alt="Sétima Cauda Logo" width="120" />
+  <img src="https://sétimacauda.com/og-image.png" alt="Sétima Cauda Logo" width="120" />
   
   # Sétima Cauda
   **Soluções digitais para empresas que querem evoluir.**
