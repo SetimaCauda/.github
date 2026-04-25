@@ -50,7 +50,7 @@ Processos antigos geram retrabalho, perda de tempo e dificultam o crescimento. N
 
 Seja para tirar dúvidas, entender como podemos ajudar ou conversar sobre sua necessidade, estamos por aqui.
 
-- 🌐 **Site:** [sétimacauda.com](https://setimacauda.com)
+- 🌐 **Site:** [sétimacauda.com](https://sétimacauda.com)
 - ✉️ **Contato:** [contato@setimacauda.com](mailto:contato@setimacauda.com)
 
 ---
